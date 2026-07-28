@@ -10,7 +10,6 @@ async function loadKnockout() {
         const response = await fetch('data/knockout.json');
         const data = await response.json();
         
-        renderRound('qf-container', data.quarterFinals);
         renderRound('sf-container', data.semiFinals);
         renderRound('f-container', [data.final]);
         
