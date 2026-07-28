@@ -1,40 +1,42 @@
 {
-  "quarterFinals": [
-    {
-      "id": "qf1",
-      "teamA": { "name": "Roaring Lions", "score": null },
-      "teamB": { "name": "Fierce Tigers", "score": null },
-      "date": "August 2, 2026",
-      "status": "Upcoming"
-    },
-    {
-      "id": "qf2",
-      "teamA": { "name": "Swift Cheetahs", "score": null },
-      "teamB": { "name": "Silent Panthers", "score": null },
-      "date": "August 3, 2026",
-      "status": "Upcoming"
-    }
-  ],
   "semiFinals": [
     {
       "id": "sf1",
-      "teamA": { "name": "TBD", "score": null },
-      "teamB": { "name": "TBD", "score": null },
+      "teamA": {
+        "name": "TBD",
+        "score": null
+      },
+      "teamB": {
+        "name": "TBD",
+        "score": null
+      },
       "date": "August 6, 2026",
       "status": "Upcoming"
     },
     {
       "id": "sf2",
-      "teamA": { "name": "TBD", "score": null },
-      "teamB": { "name": "TBD", "score": null },
+      "teamA": {
+        "name": "TBD",
+        "score": null
+      },
+      "teamB": {
+        "name": "TBD",
+        "score": null
+      },
       "date": "August 7, 2026",
       "status": "Upcoming"
     }
   ],
   "final": {
     "id": "f1",
-    "teamA": { "name": "TBD", "score": null },
-    "teamB": { "name": "TBD", "score": null },
+    "teamA": {
+      "name": "TBD",
+      "score": null
+    },
+    "teamB": {
+      "name": "TBD",
+      "score": null
+    },
     "date": "August 10, 2026",
     "status": "Upcoming"
   },
