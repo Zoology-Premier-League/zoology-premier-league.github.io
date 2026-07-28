@@ -2,12 +2,12 @@
   "liveMatch": {
     "teamA": {
       "name": "Hunter bee  (66 Batch)",
-      "logo": "assets/logos/lion.png",
+      "logo": "assets/logos/Hunter.jpeg",
       "score": 0
     },
     "teamB": {
       "name": "Piranha (71 batch)",
-      "logo": "assets/logos/tiger.png",
+      "logo": "assets/logos/Piranha.jpeg",
       "score": 0
     },
     "date": "July 29, 2026",
@@ -19,12 +19,12 @@
     {
       "teamA": {
         "name": "Piranha (71 batch)",
-        "logo": "assets/logos/cheetah.png",
+        "logo": "assets/logos/Piranha.jpeg",
         "score": 1
       },
       "teamB": {
         "name": "Renaissance (Alumni Batch)",
-        "logo": "assets/logos/elephant.png",
+        "logo": "assets/logos/Renaissance.jpeg",
         "score": 1
       },
       "date": "July 28, 2026",

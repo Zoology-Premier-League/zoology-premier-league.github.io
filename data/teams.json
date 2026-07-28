@@ -2,7 +2,7 @@
   {
     "id": "team1",
     "name": "Falcon Flyers (65 batch)",
-    "logo": "assets/logos/lion.png",
+    "logo": "assets/logos/Falcon.jpeg",
     "captain": "To be announced",
     "players": [
       "To be announced",
@@ -17,7 +17,7 @@
   {
     "id": "team2",
     "name": "The Zoodiacs (70 Batch)",
-    "logo": "assets/logos/cheetah.png",
+    "logo": "assets/logos/Zoodiacs.jpeg",
     "captain": "Abid Bin Azad",
     "players": [
       "Abid Bin Azad",
@@ -32,7 +32,7 @@
   {
     "id": "team3",
     "name": "Lightning Lancers (68 Batch)",
-    "logo": "assets/logos/elephant.png",
+    "logo": "assets/logos/Lightning.jpeg",
     "captain": "Sefat khan",
     "players": [
       "Sefat khan",
@@ -47,7 +47,7 @@
   {
     "id": "team4",
     "name": "Blizzard (69 Batch)",
-    "logo": "assets/logos/tiger.png",
+    "logo": "assets/logos/Blizzard.jpeg",
     "captain": "Razin",
     "players": [
       "sajid",
@@ -62,7 +62,7 @@
   {
     "id": "team5",
     "name": "Renaissance (Alumni Batch)",
-    "logo": "assets/logos/eagle.png",
+    "logo": "assets/logos/Renaissance.jpeg",
     "captain": "Saidul",
     "players": [
       "Hasan",
@@ -77,7 +77,7 @@
   {
     "id": "team6",
     "name": "Hunter bee  (66 Batch)",
-    "logo": "assets/logos/bull.png",
+    "logo": "assets/logos/Hunter.jpeg",
     "captain": "To be announced",
     "players": [
       "To be announced",
@@ -92,7 +92,7 @@
   {
     "id": "team7",
     "name": "Piranha (71 batch)",
-    "logo": "assets/logos/panther.png",
+    "logo": "assets/logos/Piranha.jpeg",
     "captain": "Mofassir",
     "players": [
       "Mofassir",
