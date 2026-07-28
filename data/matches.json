@@ -1,37 +1,33 @@
 {
   "liveMatch": {
     "teamA": {
-      "name": "Roaring Lions",
+      "name": "Hunter bee  (66 Batch)",
       "logo": "assets/logos/lion.png",
-      "score": 2
+      "score": 0
     },
     "teamB": {
-      "name": "Fierce Tigers",
+      "name": "Piranha (71 batch)",
       "logo": "assets/logos/tiger.png",
-      "score": 1
+      "score": 0
     },
-    "date": "July 28, 2026",
-    "time": "16:00 PM",
+    "date": "July 29, 2026",
+    "time": "15:30 PM",
     "venue": "University Main Ground",
-    "status": "Live"
+    "status": "Upcoming"
   },
   "latestResults": [
     {
-      "teamA": { "name": "Swift Cheetahs", "logo": "assets/logos/cheetah.png", "score": 3 },
-      "teamB": { "name": "Mighty Elephants", "logo": "assets/logos/elephant.png", "score": 0 },
-      "date": "July 27, 2026",
-      "status": "Finished"
-    },
-    {
-      "teamA": { "name": "Soaring Eagles", "logo": "assets/logos/eagle.png", "score": 1 },
-      "teamB": { "name": "Charging Bulls", "logo": "assets/logos/bull.png", "score": 1 },
-      "date": "July 26, 2026",
-      "status": "Finished"
-    },
-    {
-      "teamA": { "name": "Silent Panthers", "logo": "assets/logos/panther.png", "score": 2 },
-      "teamB": { "name": "Roaring Lions", "logo": "assets/logos/lion.png", "score": 4 },
-      "date": "July 25, 2026",
+      "teamA": {
+        "name": "Piranha (71 batch)",
+        "logo": "assets/logos/cheetah.png",
+        "score": 1
+      },
+      "teamB": {
+        "name": "Renaissance (Alumni Batch)",
+        "logo": "assets/logos/elephant.png",
+        "score": 1
+      },
+      "date": "July 28, 2026",
       "status": "Finished"
     }
   ]
