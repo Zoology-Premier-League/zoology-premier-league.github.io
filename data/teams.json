@@ -1,51 +1,107 @@
 [
   {
     "id": "team1",
-    "name": "Roaring Lions",
+    "name": "Falcon Flyers (65 batch)",
     "logo": "assets/logos/lion.png",
     "captain": "John Doe",
-    "players": ["John Doe", "Mike Smith", "David Miller", "Chris Johnson", "Robert Brown", "James Wilson", "Daniel Taylor"]
+    "players": [
+      "John Doe",
+      "Mike Smith",
+      "David Miller",
+      "Chris Johnson",
+      "Robert Brown",
+      "James Wilson",
+      "Daniel Taylor"
+    ]
   },
   {
     "id": "team2",
-    "name": "Swift Cheetahs",
+    "name": "The Zoodiacs (70 Batch)",
     "logo": "assets/logos/cheetah.png",
     "captain": "Steve Jobs",
-    "players": ["Steve Jobs", "Tim Cook", "Craig Federighi", "Jony Ive", "Phil Schiller", "Eddy Cue", "Luca Maestri"]
+    "players": [
+      "Steve Jobs",
+      "Tim Cook",
+      "Craig Federighi",
+      "Jony Ive",
+      "Phil Schiller",
+      "Eddy Cue",
+      "Luca Maestri"
+    ]
   },
   {
     "id": "team3",
-    "name": "Mighty Elephants",
+    "name": "Lightning Lancers (68 Batch)",
     "logo": "assets/logos/elephant.png",
     "captain": "Bill Gates",
-    "players": ["Bill Gates", "Paul Allen", "Steve Ballmer", "Satya Nadella", "Brad Smith", "Amy Hood", "Kevin Scott"]
+    "players": [
+      "Bill Gates",
+      "Paul Allen",
+      "Steve Ballmer",
+      "Satya Nadella",
+      "Brad Smith",
+      "Amy Hood",
+      "Kevin Scott"
+    ]
   },
   {
     "id": "team4",
-    "name": "Fierce Tigers",
+    "name": "Blizzard (69 Batch)",
     "logo": "assets/logos/tiger.png",
     "captain": "Elon Musk",
-    "players": ["Elon Musk", "Gwynne Shotwell", "Tom Mueller", "JB Straubel", "Franz von Holzhausen", "Drew Baglino", "Zachary Kirkhorn"]
+    "players": [
+      "Elon Musk",
+      "Gwynne Shotwell",
+      "Tom Mueller",
+      "JB Straubel",
+      "Franz von Holzhausen",
+      "Drew Baglino",
+      "Zachary Kirkhorn"
+    ]
   },
   {
     "id": "team5",
-    "name": "Soaring Eagles",
+    "name": "Renaissance (Alumni Batch)",
     "logo": "assets/logos/eagle.png",
     "captain": "Jeff Bezos",
-    "players": ["Jeff Bezos", "Andy Jassy", "Werner Vogels", "Dave Limp", "Brian Olsavsky", "David Zapolsky", "Adam Selipsky"]
+    "players": [
+      "Jeff Bezos",
+      "Andy Jassy",
+      "Werner Vogels",
+      "Dave Limp",
+      "Brian Olsavsky",
+      "David Zapolsky",
+      "Adam Selipsky"
+    ]
   },
   {
     "id": "team6",
-    "name": "Charging Bulls",
+    "name": "Hunter bee  (66 Batch)",
     "logo": "assets/logos/bull.png",
     "captain": "Mark Zuckerberg",
-    "players": ["Mark Zuckerberg", "Sheryl Sandberg", "Javier Olivan", "Chris Cox", "David Wehner", "Andrew Bosworth", "Susan Li"]
+    "players": [
+      "Mark Zuckerberg",
+      "Sheryl Sandberg",
+      "Javier Olivan",
+      "Chris Cox",
+      "David Wehner",
+      "Andrew Bosworth",
+      "Susan Li"
+    ]
   },
   {
     "id": "team7",
-    "name": "Silent Panthers",
+    "name": "Piranha (71 batch)",
     "logo": "assets/logos/panther.png",
     "captain": "Larry Page",
-    "players": ["Larry Page", "Sergey Brin", "Sundar Pichai", "Ruth Porat", "Thomas Kurian", "Prabhakar Raghavan", "Kent Walker"]
+    "players": [
+      "Larry Page",
+      "Sergey Brin",
+      "Sundar Pichai",
+      "Ruth Porat",
+      "Thomas Kurian",
+      "Prabhakar Raghavan",
+      "Kent Walker"
+    ]
   }
 ]
