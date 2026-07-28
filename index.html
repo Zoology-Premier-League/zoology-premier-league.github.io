@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZPL Football Tournament</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body id="home-page">
+    <header>
+        <div class="container navbar">
+            <a href="index.html" class="logo">ZPL 2026</a>
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Team Names</a></li>
+                <li><a href="standings.html">Group Standing</a></li>
+                <li><a href="knockout.html">Knockout Stage</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero" id="hero">
+            <div class="hero-content fade-in">
+                <h1 class="hero-title site-title">ZPL Football Tournament</h1>
+                <p class="hero-subtitle site-subtitle">Loading...</p>
+            </div>
+        </section>
+
+        <!-- Tournament Info -->
+        <section class="section">
+            <div class="container">
+                <div class="card fade-in">
+                    <p id="tournament-description" style="text-align: center; font-size: 1.1rem; color: var(--text-secondary);">Loading description...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Live Match Section -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">Live Match Today</h2>
+                <div class="card live-match-card fade-in" id="live-match-container">
+                    <p>Loading match data...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Latest Results Section -->
+        <section class="section">
+            <div class="container">
+                <h2 class="section-title">Latest Results</h2>
+                <div class="results-grid" id="latest-results-container">
+                    <!-- Results will be loaded here dynamically -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <h3 id="footer-department">Loading...</h3>
+            <p id="footer-committee"></p>
+            <p id="footer-contact" style="color: var(--text-secondary);"></p>
+            <div class="footer-links">
+                <a href="#" id="footer-facebook" target="_blank">Facebook Page</a>
+            </div>
+            <p id="footer-copyright" style="font-size: 0.9rem; color: var(--text-secondary); margin-top: 1rem;"></p>
+        </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        { "name": "Roaring Lions", "played": 2, "won": 2, "drawn": 0, "lost": 0, "gf": 6, "ga": 3, "gd": 3, "points": 6 },
+        { "name": "Silent Panthers", "played": 2, "won": 1, "drawn": 0, "lost": 1, "gf": 3, "ga": 4, "gd": -1, "points": 3 },
+        { "name": "Mighty Elephants", "played": 2, "won": 0, "drawn": 0, "lost": 2, "gf": 0, "ga": 4, "gd": -4, "points": 0 }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        { "name": "Swift Cheetahs", "played": 2, "won": 1, "drawn": 1, "lost": 0, "gf": 4, "ga": 1, "gd": 3, "points": 4 },
+        { "name": "Fierce Tigers", "played": 2, "won": 1, "drawn": 0, "lost": 1, "gf": 3, "ga": 3, "gd": 0, "points": 3 },
+        { "name": "Soaring Eagles", "played": 2, "won": 0, "drawn": 2, "lost": 0, "gf": 2, "ga": 2, "gd": 0, "points": 2 },
+        { "name": "Charging Bulls", "played": 2, "won": 0, "drawn": 1, "lost": 1, "gf": 2, "ga": 5, "gd": -3, "points": 1 }
+      ]
+    }
+  ]
+}

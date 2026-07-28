@@ -1,0 +1,38 @@
+{
+  "liveMatch": {
+    "teamA": {
+      "name": "Roaring Lions",
+      "logo": "assets/logos/lion.png",
+      "score": 2
+    },
+    "teamB": {
+      "name": "Fierce Tigers",
+      "logo": "assets/logos/tiger.png",
+      "score": 1
+    },
+    "date": "July 28, 2026",
+    "time": "16:00 PM",
+    "venue": "University Main Ground",
+    "status": "Live"
+  },
+  "latestResults": [
+    {
+      "teamA": { "name": "Swift Cheetahs", "logo": "assets/logos/cheetah.png", "score": 3 },
+      "teamB": { "name": "Mighty Elephants", "logo": "assets/logos/elephant.png", "score": 0 },
+      "date": "July 27, 2026",
+      "status": "Finished"
+    },
+    {
+      "teamA": { "name": "Soaring Eagles", "logo": "assets/logos/eagle.png", "score": 1 },
+      "teamB": { "name": "Charging Bulls", "logo": "assets/logos/bull.png", "score": 1 },
+      "date": "July 26, 2026",
+      "status": "Finished"
+    },
+    {
+      "teamA": { "name": "Silent Panthers", "logo": "assets/logos/panther.png", "score": 2 },
+      "teamB": { "name": "Roaring Lions", "logo": "assets/logos/lion.png", "score": 4 },
+      "date": "July 25, 2026",
+      "status": "Finished"
+    }
+  ]
+}
